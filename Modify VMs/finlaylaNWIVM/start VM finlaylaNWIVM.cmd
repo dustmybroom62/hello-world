@@ -1,0 +1,1 @@
+VBoxManage startvm finlaylaNWIVM --type=headless
